@@ -4,7 +4,9 @@
             <img src="http://github-readme-streak-stats.herokuapp.com/?user=thayorch&theme=gradient&hide_border=false" alt="">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt="">
         </div>
-        <div style="margin-top: 50px; font-weight: 200;">
+        <div>
+        <h2>
         TY_.Martinez. a student at <strong><a style="text-decoration: none; color: black;" href="https://www.cs.science.cmu.ac.th/">Computer Science CMU</a></strong>.               
+        </h2>
         </div>        
 </div>
