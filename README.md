@@ -1,8 +1,13 @@
 <div align="center" style="display: block;">
     <h1><b>- TY_.Martinez. -</b></h1>
-        <img src="http://github-readme-streak-stats.herokuapp.com/?user=thayorch&theme=gradient&hide_border=false" alt=""><br>
+        <code>
+        <img src="http://github-readme-streak-stats.herokuapp.com/?user=thayorch&theme=gradient&hide_border=false" alt="">
+        </code>
+        <code>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt="">
+        </code>
         <div style="margin-top: 10px">
-            <blockquote>
+        <blockquote>
                 © Copyright 2024, All Rights Reserved<br>
             Modify by <strong><a target="_blank" style="text-decoration: none; color: black;" href="https://www.facebook.com/lnwice0">Thatcharnon Maidee</a></strong>
             </blockquote>    
