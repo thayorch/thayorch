@@ -6,7 +6,7 @@
         </div>
         <div>
         <h4>
-        TY_.Martinez. a student at <strong><a style="text-decoration: none; color: black;" href="https://www.cs.science.cmu.ac.th/">Computer Science CMU</a></strong>.               
+        TY_.Martinez. a student at <strong><a style="text-decoration: none;" href="https://www.cs.science.cmu.ac.th/">Computer Science CMU</a></strong>.               
         </h4>
         </div>        
 </div>
