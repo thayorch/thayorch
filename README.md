@@ -5,6 +5,6 @@
             <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt=""> -->
         </div>
         <div style="margin-top: 10px">
-        TY_.Martinez. a student <strong><a target="_blank" style="text-decoration: none; color: black;" href="https://www.cs.science.cmu.ac.th/">Computer Science</a></strong> ChiangMai University               
+        TY_.Martinez. a student <strong><a target="_blank" style="text-decoration: none; color: black;" href="https://www.cs.science.cmu.ac.th/">Computer Science ChiangMai University</a></strong>               
         </div>        
 </div>
