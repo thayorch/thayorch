@@ -2,7 +2,7 @@
     <h1><b>👑 Alright !! </b></h1>
         <div>
             <img src="http://github-readme-streak-stats.herokuapp.com/?user=thayorch&theme=graywhite&hide_border=false" alt="">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt="">
+<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt=""> -->
         </div>
     <br>
         <div>
