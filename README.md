@@ -10,7 +10,7 @@
                 Repeating with out making error identical computers
             </blockquote>
         <h4>
-        TY_.Martinez. a student at <strong>cs student at <a href="https://www.google.com/search?rls=en&q=chiang+mai+university">CMU, Thailand</a></strong>.               
+        TY_.Martinez. a student at <strong>CS student at <a href="https://www.google.com/search?rls=en&q=chiang+mai+university">CMU, Thailand</a></strong>.               
         </h4>
         </div>        
 </div>
