@@ -5,7 +5,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=thayorch&theme=light" alt='tropy'>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayorch&layout=compact&hide_border=false&show_icons=true" alt=""> 
             <!--         <img src="http://github-readme-streak-stats.herokuapp.com/?user=thayorch&theme=graywhite&hide_border=false" alt=""> -->
-        </blockquote>blockquote>
+        </blockquote>
     <br>
         <div>
             <blockquote>
