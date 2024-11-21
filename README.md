@@ -14,5 +14,8 @@
         <h4>
         TY_.Martinez. a student at <strong>CS student at <a href="https://www.google.com/search?rls=en&q=chiang+mai+university">CMU, Thailand</a></strong>.               
         </h4>
+        <a href="https://discordapp.com/users/557116336942088227" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+        </a>
         </div>        
 </div>
