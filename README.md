@@ -12,7 +12,7 @@
                 Repeating with out making error identical computers
             </blockquote>
         <h4>
-        TY_.Martinez. a student at <strong>CS student at <a href="https://www.google.com/search?rls=en&q=chiang+mai+university">CMU, Thailand</a></strong>.               
+        TY_.Martinez. a student at <strong>CS student at <a href="https://www.google.com/search?rls=en&q=chiang+mai+university">CMU, Thailand</a></strong>               
         </h4>
         <a href="https://www.linkedin.com/in/thadchanon-maidee/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  /></a>
         <a href="https://discordapp.com/users/557116336942088227" target="_blank">
